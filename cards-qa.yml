@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related qa testing APIs "
+  contactDetails:
+    name: "Mohan Lodi - QA Analyst"
+    email: "lodi@eazybank.com"
+  onCallSupport:
+    - (213) 666-8888
+    - (565) 555-9999
