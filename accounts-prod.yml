@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related to Production APIs "
+  message: "Welcome to EazyBank accounts related to production APIs "
   contactDetails:
     name: "harshit - Senior Developer"
     email: "{cipher}3c4c94fdaae07807e08662a37a816ad8a446b50d3b762f4ce7a3e4f2646550a0e263ec7777e245c24ea6df9471f5fc4c"
